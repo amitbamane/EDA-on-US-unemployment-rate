@@ -10,4 +10,4 @@ Explore the Kaggle notebook here ➡️ https://lnkd.in/dXqFc6TX
 
 💡 Whether you're an economist, data scientist, policymaker, or simply passionate about understanding the labor market, this notebook is a treasure trove of valuable insights! 📚💼
 
-🚀 Join me on this data-driven journey as we uncover the multifaceted nature of the US unemployment rate. Feel free to dive into the notebook, share your thoughts, and contribute to the ongoing discussion. Let's empower ourselves with data to drive positive change! 💪📊
+🚀 Join me on this data-driven journey as we uncover the multifaceted nature of the US unemployment rate. Additionally, I have attached the notebook as a PDF for your convenience. Feel free to dive into the notebook, share your thoughts, and contribute to the ongoing discussion. Let's empower ourselves with data to drive positive change! 💪📊
